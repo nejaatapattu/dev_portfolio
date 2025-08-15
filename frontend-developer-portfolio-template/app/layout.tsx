@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Frontend Developer',
+	title: 'Neja Atapattu - Frontend Developer',
 	description:
 		'Welcome to my portfolio! I am a passionate frontend developer specializing in creating beautiful, responsive, and user-centric web applications. With expertise in modern JavaScript frameworks and UI/UX principles, I transform designs into seamless interactive experiences.',
 	keywords: [
@@ -31,21 +31,21 @@ export const metadata: Metadata = {
 		'Performance Optimization',
 		'Web Accessibility',
 		'Component Design',
-		'[Your Name]',
+		'Neja Atapattu',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'Neja Atapattu' }],
+	creator: 'Neja Atapattu',
 	openGraph: {
-		title: '[Your Name] - Frontend Developer Portfolio',
+		title: 'Neja Atapattu - Frontend Developer Portfolio',
 		description: 'Passionate frontend developer crafting beautiful and interactive web experiences. Explore my projects and frontend development expertise.',
 		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		siteName: 'Neja Atapattu - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Frontend Developer Portfolio',
+				alt: 'Neja Atapattu - Frontend Developer Portfolio',
 			},
 		],
 		locale: 'en_US',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: '[Your Name] - Frontend Developer',
+		title: 'Neja Atapattu - Frontend Developer',
 		description: 'Passionate frontend developer crafting beautiful and interactive web experiences. Explore my projects and frontend development expertise.',
 		creator: '@yourusername',
 		images: ['/og-image.jpg'],

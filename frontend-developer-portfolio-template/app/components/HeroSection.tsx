@@ -12,13 +12,14 @@ export default function HeroSection() {
 
 			<div className="relative z-10 text-center px-4">
 				<motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
-					<h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">Sarah Parker</h1>
-					<p className="text-xl md:text-2xl text-gray-300 mb-8">Frontend Developer & UI/UX Enthusiast</p>
+					<h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">Neja Atapattu</h1>
+					<p className="text-xl md:text-2xl text-gray-300 mb-8">Front-End Engineer | UI/UX | Applied ML</p>
 					<div className="flex flex-wrap justify-center gap-4 text-sm">
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">React</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Next.js</span>
-						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">TypeScript</span>
-						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Tailwind CSS</span>
+						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">SQL (BigQuery)</span>
+						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">PyTorch</span>
+						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Unity</span>
 					</div>
 				</motion.div>
 			</div>
