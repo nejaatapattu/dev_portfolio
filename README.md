@@ -1,56 +1,34 @@
-# Developer Portfolio Templates
+# Frontend Developer Portfolio Template
 
-A collection of modern, responsive portfolio templates built with Next.js and TailwindCSS. Perfect for developers looking to showcase their work with minimal setup.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-🌐 **[View All Templates](https://www.devportfoliotemplates.com)**
-
-## Features
-
-- 📱 Fully responsive designs for all devices
-- 🎨 Modern and clean UI with smooth animations
-- 🚀 Built with performance in mind
-- 📝 Easy to customize and maintain
-- 🌙 Dark/Light versions
-- 🎯 SEO optimized
-
-## Tech Stack
-
-- Next.js
-- React
-- TypeScript
-- TailwindCSS
+[Demo](https://www.devportfoliotemplates.com/portfolio-templates/frontend-developer)
 
 ## Getting Started
 
-You have two options to get started with your preferred template:
+You have two options to get started with this template:
 
 ### Option 1: Using Git Sparse Checkout
 
-If you want to clone only a specific portfolio template:
+If you want to clone only this specific template:
 
 ```bash
 git clone --no-checkout https://github.com/devportfoliotemplates/devportfoliotemplates.git
 cd devportfoliotemplates
 git sparse-checkout init --cone
-git sparse-checkout set example-portfolio-template
+git sparse-checkout set frontend-developer-portfolio-template
 git checkout
 ```
 
-Replace `example-portfolio-template` with your preferred template name (`frontend-developer-portfolio-template`, `backend-developer-portfolio-template`, etc.).
-
 ### Option 2: Direct Download
 
-You can download a specific portfolio template as a ZIP file:
+You can download this template as a ZIP file:
 
 1. Visit [download-directory.github.io](https://download-directory.github.io/)
-2. Paste the URL of your preferred portfolio folder (e.g., `https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/frontend-developer-portfolio-template`)
+2. Paste the URL of this portfolio folder: `https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/frontend-developer-portfolio-template`
 3. Download and extract the ZIP file
 
 ### Running the Template
 
-Once you have your preferred template:
+Once you have the template:
 
 1. Install dependencies:
 
@@ -150,21 +128,6 @@ Follow these steps to deploy your portfolio for free using GitHub and Vercel:
    - Click "Deploy"
 
 Your portfolio will be live in minutes with a free Vercel domain (e.g., `your-repo.vercel.app`). You can later add a custom domain in your Vercel project settings.
-
-## Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/improvement`)
-6. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
