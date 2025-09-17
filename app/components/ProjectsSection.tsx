@@ -31,6 +31,15 @@ const projects: Project[] = [
 		tags: ['Unity', 'C#', 'Game AI', 'Chart.js'],
 		github: 'https://github.com/nejaatapattu/summit',
 		download: 'https://drive.google.com/drive/folders/1cu3OZ5R2C8W827jpXaREl_xh_b2AmhHN?usp=sharing',},
+  {
+		title: 'Machine Learning - Football Play Predictor',
+		description: 'Designed and implemented machine learning models to predict the success of football downs using historical game and player data achieving 88% accuracy.• Conducted data preprocessing such as data cleaning, forward and backward feature selection as well as feature engineering to optimize model performance for strategic real time decision-making in games.',
+		image: '/football.jpg',
+		tags: ['Pytorch','ML','Analysis'],
+		github: 'https://github.com/nejaatapattu',
+		website: 'https://cs4641.streamlit.app',}
+    
+    
 ];
 
 export default function ProjectsSection() {
